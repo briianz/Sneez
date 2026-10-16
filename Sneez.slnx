@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Sneez.Core/Sneez.Core.csproj" />
+  <Project Path="Sneez.Editor/Sneez.Editor.csproj" />
+</Solution>
